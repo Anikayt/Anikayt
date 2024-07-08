@@ -7,7 +7,7 @@
 <br>
 <a href="https://www.facebook.com/profile.php?id=100083324674392&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/aniket_taichi?igshid=NGExMmI2YTkyZg=="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/aniket-mishra-721370129"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="[https://www.linkedin.com/in/aniket-mishra-721370129](https://www.linkedin.com/in/anikayt/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:aniketthepace76@gmail.com?subject=Hey%20Aniket"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
